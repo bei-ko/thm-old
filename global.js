@@ -12,12 +12,12 @@ var touhouMobile = {
         },
         "东方千夜帖" : {
             url : "https://m.newasp.com/android/702908.html",
-            info : "一款相当好的车万stg手游<br>收录了大部分正作的角色，符卡，自机<br>推荐新手试一试<br>",
+            info : "一款相当好的车万stg手游<br>收录了大部分正作的角色，符卡，自机<br>推荐新手试一试<br>google play link:https://play.google.com/store/apps/details?id=com.knead.TouhouTNA02<br>",
             star : 5
         },
         "东方魔导录" : {
             url : "https://www.168you.com/game/12507.html",
-            info : "手感很不错，UI也很不错，很流畅<br>支持莎莎，灵梦，早苗，妖梦，咲夜五中自机<br>类似于上者，比上者功能多一些，ui更好看<br>符卡没有上者多<br>",
+            info : "手感很不错，UI也很不错，很流畅<br>支持莎莎，灵梦，早苗，妖梦，咲夜五中自机<br>类似于上者，比上者功能多一些，ui更好看<br>符卡没有上者多<br>google play link:https://play.google.com/store/apps/details?id=com.whiteboard.touhou<br>",
             star : 5
         },
         "东方幻灵梦" : {
@@ -32,7 +32,7 @@ var touhouMobile = {
         },
         "弹幕游戏" : {
             url : "http://m.downcc.com/d/284934",
-            info : "类似于上者，也是一个经典风的车万STG手游<br>总体来说还是挺不错的<br>",
+            info : "类似于上者，也是一个经典风的车万STG手游<br>总体来说还是挺不错的<br>google play link:https://play.google.com/store/apps/details?id=sorais.th1danmaku<br>",
             star : 4
         },
         "东方有顶天" : {
@@ -79,7 +79,7 @@ var touhouMobile = {
         },
         " ファンシーライブ" : {
             url : "https://www.lanzouh.com/i9c3k260jsof",
-            info : "音游，但目前曲子比较少",
+            info : "音游，但目前曲子比较少<br>google play link:https://play.google.com/store/apps/details?id=com.TNT.FancyLive<br>",
             star : 5
         }
     },
@@ -124,7 +124,12 @@ var touhouMobile = {
         },
          "东方像素地牢" : {
             url : "https://www.lanzouh.com/iuaH525szxrg",
-            info : "像素地牢是一个非常经典的地牢游戏，这个是东方版的",
+            info : "像素地牢是一个非常经典的地牢游戏，这个是东方版的<br>google play link:https://play.google.com/store/apps/details?id=com.touhoupixel.touhoupixeldungeonreloaded",
+            star : 4
+         },
+        "蕾米莉亚vs地下迷宫" : {
+            url : "https://www.lanzouh.com/iFsfB26fd4kb",
+            info : "操控蕾米莉亚在地牢里解密",
             star : 4
          }
     },
@@ -133,6 +138,11 @@ var touhouMobile = {
             url : "https://www.lanzouh.com/iApFp260jsri",
             info : "提供者暂未提供描述，请等待更新",
             star : 0
+        },
+        "蕾米莉亚vs魅力球" : {
+            url : "https://www.lanzouh.com/iB0Ku26fd60d",
+            info : "蕾米莉亚跑酷收集钻石，但是手感比较差",
+            star : 3
         }
     },
     RPG : {
@@ -170,7 +180,7 @@ var touhouMobile = {
         },
          "雏酱Breaker 2nd.break" : {
             url : "https://cloud.wujiyan.cc/s/xMzUk",
-            info : "键山雏横板对战手游，暂无汉化<br>",
+            info : "键山雏横板对战手游，暂无汉化<br>google play link:https://play.google.com/store/apps/details?id=isy.hina.breaker2ndb.mld<br>",
             star : 5
         },
          "蕾米莉亚的晚餐(汉化)" : {
@@ -180,12 +190,12 @@ var touhouMobile = {
         },
          "东方幻想乡防卫记" : {
             url : "https://www.lanzouh.com/i0eAu25t04ri",
-            info : "东方塔防游戏<br>",
+            info : "东方塔防游戏<br>google play link:https://play.google.com/store/apps/details?id=com.mhgames.touhougensouboueikiplus<br>",
             star : 5
         },
          "东方FM" : {
             url : "https://www.lanzouh.com/iQ3Vr25szxuj",
-            info : "可以连接到来自幻想乡的电台，非常不错的小软件<br>",
+            info : "可以连接到来自幻想乡的电台，非常不错的小软件<br>google play link:https://play.google.com/store/apps/details?id=fm.touhou.touhoufm<br>",
             star : 4
         },
          "东方消消乐" : {
@@ -220,7 +230,7 @@ var touhouMobile = {
         },
          "蕾米莉亚掉落" : {
             url : "https://www.lanzouh.com/iLqx8260jore",
-            info : "可爱休闲游戏，点击物品让蕾米莉亚掉到床上<br>",
+            info : "可爱休闲游戏，点击物品让蕾米莉亚掉到床上（往下翻翻有二代三代）<br>",
             star : 5
         },
          "合成大翠香" : {
@@ -228,9 +238,32 @@ var touhouMobile = {
             info : "很可爱的休闲小游戏，把各种角色合成翠香<br>",
             star : 4
         },
-
+        "琪露诺抓青蛙 ~ Cirno catch frogs" : {
+            url : "https://yuna0x0.itch.io/cirno-catch-frog/purchase",
+            info : "休闲游戏，控制baka冰冻青蛙(诹访子)<br>(进入网站后点击“No thanks, just take me to the downloads”下载)<br>",
+            star : 4
+        },
+        "多多良小伞的惊吓大作战" : {
+            url : "https://lever210.itch.io/tatara-kogasas-surprise-operation",
+            info : "小游戏，控制小伞吓唬路人以得到糖果<br>",
+            star : 4
+        },
+        "蕾米莉亚掉落2" : {
+            url : "https://www.lanzouh.com/inUz426f74lg",
+            info : "玩法和上面的一代相同<br>",
+            star : 4
+        },
+        "蕾米莉亚掉落3" : {
+            url : "https://www.lanzouh.com/iZ54626f751c",
+            info : "新增角色芙兰，玩法和上面的二代三代相同<br><s>出了三代的游戏一定很热门吧</s><br>",
+            star : 4
+        },
+        "雏酱工厂（汉化）" : {
+            url : "https://www.lanzouh.com/iw8Fw26s8v1c",
+            info : "著名厄雏isy(雏酱)制作的回合制养成游戏,帮助荷取捕获岛上的克隆键山雏<br>google play link:https://play.google.com/store/apps/details?id=isy.hina.factory.mld<br>",
+            star : 5
+        }
     },
-    
     暂未分类 : {
         "琪露诺坦克" : {
             url : "https://www.lanzouh.com/i2UP7260jofc",
@@ -280,9 +313,24 @@ var touhouMobile = {
             info : "可以在手机上养东方角色的小部件<br>",
             star : 5
         },
+        "芙兰朵露倒计时桌面插件" : {
+            url : "https://www.lanzouh.com/ivAls267nm6h",
+            info : "一款芙兰皮肤的c83c84倒计时桌面组件<br>虽然放到现在倒计时功能已经没什么用了<br>但拿来放桌面上欣赏还是蛮不错的（×）<br>",
+            star : 5
+        },
+        "东方莳祈酒 by灵final(漫画)" : {
+            url : "https://cloud.wujiyan.cc/s/2rlFw",
+            info : "成都学生社团创作的漫画，提供者已征得创作者同意<br>",
+            star : 5
+        },
+        "TouHou Pet" : {
+            url : "https://www.lanzouh.com/i5FK326sr1lg",
+            info : "东方手机桌宠，支持自定义，附带配置文件<br>",
+            star : 4
+        },
          "Google Play" : {
             url : "https://www.lanzouh.com/ishnY25szwud",
-            info : "谷歌应用市场，非常重要的前置依赖库，部分游戏需要依赖此程序运行",
+            info : "谷歌应用市场，非常重要的前置依赖库，部分游戏需要依赖此程序运行google play link:https://play.google.com/<br>",
             star : 5
          }
     }
